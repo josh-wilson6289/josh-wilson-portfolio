@@ -23,8 +23,8 @@ const Footer = () => {
           </a> 
         </li>
         <li>
-          <a href="/assets/Josh_Wilson_WebDeveloper_Resume.pdf" target="_blank">
-          <img src={resumeIcon} href="/assets/Josh_Wilson_WebDeveloper_Resume.pdf" alt="Resume" target="_blank"></img>
+          <a href="/assets/Josh_Wilson_WebDeveloper_Resume_Vercel.pdf" target="_blank">
+          <img src={resumeIcon}></img>
         <p>Resume</p>
           </a> 
         </li>
