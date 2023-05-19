@@ -7,7 +7,6 @@ const Navbar = () => {
   function responsiveNavbar() {
     const navItems = document.getElementById("nav-items")
     navItems.classList.toggle("show");
-    console.log(navItems)
   }
 
   return (
